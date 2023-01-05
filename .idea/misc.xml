@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/knife4j/pom.xml" />
       </list>
     </option>
   </component>
