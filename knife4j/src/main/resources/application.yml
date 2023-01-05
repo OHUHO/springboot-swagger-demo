@@ -1,5 +1,5 @@
 server:
-    port: 8886
+    port: 8885
     servlet:
         context-path: /
 spring:
@@ -11,7 +11,7 @@ spring:
         name: 京茶吉鹿的Demo
 springdoc:
     swagger-ui:
-        path: /swagger-ui.html
+        path: /docs.html
         tags-sorter: alpha
         operations-sorter: alpha
     api-docs:
