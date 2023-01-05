@@ -1,0 +1,8 @@
+server:
+    port: 8886
+
+# 较高版本的 SpringBoot需要配置如下内容
+spring:
+    mvc:
+        path match:
+            matching-strategy: ant_path_matcher
